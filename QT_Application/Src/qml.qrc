@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyPicker.qml</file>
+        <file>MyPickerList.qml</file>
+        <file>images/icons/pickerShadowDown.svg</file>
+        <file>images/icons/pickerShadowUp.svg</file>
+    </qresource>
+</RCC>
